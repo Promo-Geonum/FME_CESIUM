@@ -19,3 +19,6 @@ Toutes les données géospatiales 3D sources ont été téléchargées à partir
 #### --Maquette 3D texturée de la commune de Poleymieux-au-Mont-d'Or - Métropole de Lyon
 ### 3D Tiles 
 #### Nuage de points LIDAR 2015 de la Métropole de Lyon
+
+Nous avon crée dans le dossier WIKI de notre projet un tutoriel sous fore de rapport, que nous avons appelé Tuto, dans le quel on a expliquer les différentes partie de notre projet.
+Nous avons essayer de montrer comment s'initier avec le logiciel FME à travers un cas pmratique .
